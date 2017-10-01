@@ -1,0 +1,304 @@
+.left-panel{
+    width: 70%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 30px;
+    background: #D00A2D;
+    border-style: solid;
+    border-width: 0px 6px 0px 0px;
+    border-color: #585858;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.right-panel{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    height: 100vh;
+    box-shadow: 0px 0px 96px -8px #000000;
+    background: #232323;
+}
+
+.player-card{
+    width: 886px;
+    padding: 20px;
+    background: linear-gradient(#4c4c4c,#000000);
+    box-shadow: 0px 0px 96px -8px #000000;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.player-img{
+    width: calc(50% - 40px);
+    height: 100%;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 3px;
+    border-color: #ffffff;
+}
+
+.player-det{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 25px;
+    color: #0e0e0e;
+    font-family: Raleway;
+    text-align: left;
+    margin-top: 70px;
+    padding-left: 30px;
+}
+
+.rank-name{
+    color: #2f43bf;
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 38px;
+    display: block;
+    width: 100%;
+    padding: 10px;
+}
+
+.player-stats{
+    width: 90%;
+    margin-top: 30px;
+    font-family: "Open Sans";
+}
+
+.player-stat{
+    display: inline-block;
+    padding: 5px;
+    color: #446061;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.stat-val{
+    float: right;
+    display: inline-block;
+    padding: 5px;
+    color: #446061;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.team-button{
+    display: inline-block;
+    /*width: 120px;*/
+    padding: 10px;
+    color: #ffffff;
+    font-weight: 600;
+    /*background: linear-gradient(#5a00ff, #2500ae);*/
+    border-style: solid;
+    border-radius: 24px;
+    border-color: #ffffff;
+    border-width: 3px;
+    margin: 20px;
+    margin-top: 50px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+}
+
+.team-button.active{
+    background: #2f43bf;
+    border-color: #2f43bf;
+    color: #ffffff;
+}
+
+.team-button.active:hover{
+    background: #2f43bf;
+    border-color: #2f43bf;
+    color: #ffffff;
+}
+
+.team-button:hover{
+    color: #D00A2D;
+    background: #ffffff;
+}
+
+.team-button.inactive{
+    background: #565656;
+    border-color: #565656;
+    color: #ffffff;
+}
+
+.team-button.inactive:hover{
+    background: #565656;
+    border-color: #565656;
+    color: #565656;
+}
+
+#price-tag{
+    padding: 10px;
+    border-width: 0px 0px 2px;
+    outline: none;
+    background: none;
+    color: #ffffff;
+    border-color: #ffffff;
+    text-align: right;
+    outline: none;
+    margin: 50px auto 30px;
+    font-family: "Open Sans";
+    font-weight: 900;
+    font-size: 20px;
+    width: 75px;
+    display: block;
+}
+
+.buy-button{
+    padding: 1px;
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 2px;
+    border-color: #39004c;
+    display: block;
+    width: 150px;
+    text-align: center;
+    margin: auto;
+    font-weight: 900;
+    background: #d00a2d;
+    color: #39004c;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+
+.buy-button:hover{
+    background: #39004c;
+    color: #d00a2d;
+}
+
+.buy-symbol{
+    display: inline-block;
+    background: #39004c;
+    color: #d00a2d;
+    border-radius: 50px;
+    vertical-align: middle;
+    padding: 7px 14px 11px;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+
+.buy-text{
+    display: inline-block;
+    vertical-align: middle;
+    width: 100px;
+    letter-spacing: 1.5px;
+}
+
+.buy-button:hover > .buy-symbol{
+    background: #d00a2d;
+    color: #39004c;
+}
+
+.next-button{
+    padding: 1px;
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 2px;
+    border-color: #39004c;
+    display: block;
+    width: 150px;
+    text-align: center;
+    margin: 10px auto;
+    font-weight: 900;
+    background: #d00a2d;
+    color: #39004c;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+
+.next-button:hover{
+    background: #39004c;
+    color: #d00a2d;
+}
+
+.next-symbol{
+    display: inline-block;
+    background: #39004c;
+    color: #d00a2d;
+    border-radius: 50px;
+    vertical-align: middle;
+    padding: 7px 14px 11px;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+
+.next-text{
+    display: inline-block;
+    vertical-align: middle;
+    width: 100px;
+    letter-spacing: 1.5px;
+}
+
+.next-button:hover > .next-symbol{
+    background: #d00a2d;
+    color: #39004c;
+}
+
+.team-card{
+    margin: 10px 20px;
+    padding: 10px;
+    width: calc(100% - 40px);
+    color: #ffffff;
+    border-style: solid;
+    border-width: 0px 0px 1px;
+    border-color: #4e4e4e;
+    font-weight: 100;
+}
+
+.team-img{
+    height: 50px;
+    vertical-align: middle;
+}
+
+.team-det{
+    padding-left: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    width: calc(100% - 50px);
+}
+
+.team-name{
+    width: calc(100% - 80px);
+    display: inline-block;
+}
+
+.team-count{
+    display: inline-block;
+    background: #3636ff;
+    padding: 3px 13px;
+    border-radius: 18px;
+    width: 80px;
+    text-align: center;
+    font-weight: 900;
+    color: white;
+}
+
+.budget-text{
+    width: calc(100% - 110px);
+    display: inline-block;
+}
+
+.team-budget{
+    width: 100px;
+    display: inline-block;
+    text-align: right;
+}
+
+.team-roster{
+    display: block;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.team-roster > ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  font-size: 13px;
+  margin: 0px;
+}

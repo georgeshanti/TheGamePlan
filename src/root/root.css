@@ -1,0 +1,26 @@
+.enter-button{
+    display: inline-block;
+    width: 200px;
+    color: #ffffff;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 34px;
+    border-color: #ffffff;
+    padding: 17px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    font-weight: 900;
+    letter-spacing: 1.3px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: Raleway;
+    cursor: pointer;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+}
+
+.enter-button:hover{
+    background: #ffffff;
+    color: #000000;
+}
