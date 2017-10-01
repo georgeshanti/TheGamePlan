@@ -9,7 +9,7 @@ export default class Team extends Component {
 		));
 		let style={};
 		if(players.length==11)
-			style={color:"#A532C7"};
+			style={color:"#32c799"};
 		else if(this.props.team.amount==0)
 			style={opacity:"0.1"};
 		return (

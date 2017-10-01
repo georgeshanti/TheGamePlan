@@ -5,7 +5,7 @@ export default class Player extends Component {
 		let player = this.props.player;
 		return (
 			<div className="player-card">
-                <img className="player-img" src="/images/ibra.jpg"/>
+                <img className="player-img" src={player.pic}/>
                 <div className="player-det">
 					<span className="rank-name">{player.name}</span>
 					<div className="player-stats">

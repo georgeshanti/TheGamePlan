@@ -105,7 +105,7 @@ export default class Play extends Component {
 			buyFunction = function(){};
 		}
 		return (
-			<div style={{fontFamily: "Open Sans", background:"#232323"}}>
+			<div style={{fontFamily: "Open Sans", background:"#232323", height:"100vh", width:"100vw", overflow:"hidden"}}>
 				<link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway" rel="stylesheet"/>
 				<link href="/bootstrap.min.css" rel="stylesheet"/>
 				<div className="left-panel">

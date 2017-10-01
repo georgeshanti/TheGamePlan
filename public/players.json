@@ -191,7 +191,7 @@
 		{
 			"id": 24,
 			"name": "Lionel Messi",
-			"pic": "images/messijpg",
+			"pic": "images/messi.jpg",
 			"sellingPrice": 0, "basePrice": 120,
 			"height": "5.7",
 			"position": "FW",
@@ -389,7 +389,7 @@
 		{
 			"id": 46,
 			"name": "Marco Veratti",
-			"pic": "images/veratti",
+			"pic": "images/veratti.jpg",
 			"sellingPrice": 0, "basePrice": 50,
 			"height": "5.5",
 			"position": "MF",
