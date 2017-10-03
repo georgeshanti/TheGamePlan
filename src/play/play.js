@@ -55,7 +55,8 @@ export default class Play extends Component {
 		let length = players.length;
 		if(length==1){
 			fetch('/players.json').then(response => response.json()).then(data => {
-				let players = data.players;
+				let players = data;
+				players.sort(function(a,b){return 0.5 - Math.random()});
 				console.log(players);
 				this.setState({"players": players});
 			});
@@ -86,9 +87,20 @@ export default class Play extends Component {
 	}
 
 	nextPlayer(){
-		let playerId = (this.state.playerId + 1)%54;
-		let currentBid = (this.state.players[playerId]).basePrice;
-		this.setState({"playerId": playerId, "currentBid": currentBid, "biddingTeam": 6});
+		let players = this.state.players;
+		let playerId = parseInt(this.state.playerId);
+		if(players[playerId].sellingPrice>0){
+			delete players.splice(this.state.playerId, 1);
+			playerId = (playerId) % (players.length);
+			this.setState({"playerId": playerId});
+			this.setState({"players": players});
+		}
+		else{
+			playerId = (playerId + 1)%this.state.players.length;
+			console.log(playerId);
+			let currentBid = (this.state.players[playerId]).basePrice;
+			this.setState({"playerId": playerId, "currentBid": currentBid, "biddingTeam": 6});
+		}
 
 	}
 
@@ -104,6 +116,7 @@ export default class Play extends Component {
 			bought = "SOLD";
 			buyFunction = function(){};
 		}
+		//return(<div>hi</div>);
 		return (
 			<div style={{fontFamily: "Open Sans", background:"#232323", height:"100vh", width:"100vw", overflow:"hidden"}}>
 				<link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway" rel="stylesheet"/>

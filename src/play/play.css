@@ -244,6 +244,7 @@
 
 .team-card{
     margin: 10px 20px;
+    min-height: 20%;
     padding: 0px 10px 10px;
     width: calc(100% - 40px);
     color: #ffffff;

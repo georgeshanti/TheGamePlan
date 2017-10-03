@@ -1,0 +1,499 @@
+{
+	"players": [{
+			"id": 1,
+			"name": "Manuel Neuer",
+			"pic": "images/neuer.jpg",
+			"sellingPrice": 0, "basePrice": 35,
+			"height": "6.4",
+			"position": "GK",
+			"rank": 10
+		},
+		{
+			"id": 2,
+			"name": "Jan Oblak",
+			"pic": "images/oblak.jpg",
+			"sellingPrice": 0, "basePrice": 40,
+			"height": "6.2",
+			"position": "GK",
+			"rank": 31
+		},
+		{
+			"id": 3,
+			"name": "Gianluigi Buffon",
+			"pic": "images/buffon.jpg",
+			"sellingPrice": 0, "basePrice": 40,
+			"height": "6.3",
+			"position": "GK",
+			"rank": 13
+		},
+		{
+			"id": 4,
+			"name": "David De Gea",
+			"pic": "images/degea.jpg",
+			"sellingPrice": 0, "basePrice": 50,
+			"height": "6.4",
+			"position": "GK",
+			"rank": 11
+		},
+		{
+			"id": 5,
+			"name": "Thibaut Courtois",
+			"pic": "images/courtois.jpg",
+			"sellingPrice": 0, "basePrice": 40,
+			"height": "6.4",
+			"position": "GK",
+			"rank": 19
+		},
+		{
+			"id": 6,
+			"name": "Diego Godin",
+			"pic": "images/godin.jpg",
+			"sellingPrice": 0, "basePrice": 25,
+			"height": "6.1",
+			"position": "DEF",
+			"rank": 27
+		},
+		{
+			"id": 7,
+			"name": "Marcelo",
+			"pic": "images/marcelo.jpg",
+			"sellingPrice": 0, "basePrice": 50,
+			"height": "5.9",
+			"position": "DEF",
+			"rank": 38
+		},
+		{
+			"id": 8,
+			"name": "Jordi Alba",
+			"pic": "images/alba.jpg",
+			"sellingPrice": 0, "basePrice": 15,
+			"height": "5.7",
+			"position": "DEF",
+			"rank": 74
+		},
+		{
+			"id": 9,
+			"name": "Gerard Pique",
+			"pic": "images/pique.jpg",
+			"sellingPrice": 0, "basePrice": 35,
+			"height": "6.4",
+			"position": "DEF",
+			"rank": 42
+		},
+		{
+			"id": 10,
+			"name": "Sergio Ramos",
+			"pic": "images/ramos.jpg",
+			"sellingPrice": 0, "basePrice": 70,
+			"height": "6.0",
+			"position": "DEF",
+			"rank": 7
+		},
+		{
+			"id": 11,
+			"name": "Jerome Boateng",
+			"pic": "images/boateng.jpg",
+			"sellingPrice": 0, "basePrice": 20,
+			"height": "6.4",
+			"position": "DEF",
+			"rank": 16
+		},
+		{
+			"id": 12,
+			"name": "Leonardo Bonucci",
+			"pic": "images/bonucci.jpg",
+			"sellingPrice": 0, "basePrice": 60,
+			"height": "6.3",
+			"position": "DEF",
+			"rank": 23
+		},
+		{
+			"id": 13,
+			"name": "Giorgio Chiellini",
+			"pic": "images/chiellini.jpg",
+			"sellingPrice": 0, "basePrice": 60,
+			"height": "6.2",
+			"position": "DEF",
+			"rank": 16
+		},
+		{
+			"id": 14,
+			"name": "Mats Hummels",
+			"pic": "images/hummels.jpg",
+			"sellingPrice": 0, "basePrice": 40,
+			"height": "6.3",
+			"position": "DEF",
+			"rank": 26
+		},
+		{
+			"id": 15,
+			"name": "Thiago Silva",
+			"pic": "images/ts.jpg",
+			"sellingPrice": 0, "basePrice": 30,
+			"height": "6.0",
+			"position": "DEF",
+			"rank": 25
+		},
+		{
+			"id": 16,
+			"name": "David Luiz",
+			"pic": "images/luiz.jpg",
+			"sellingPrice": 0, "basePrice": 45,
+			"height": "6.2",
+			"position": "DEF",
+			"rank": 60
+		},
+		{
+			"id": 17,
+			"name": "Alex Sandro",
+			"pic": "images/sandro.jpg",
+			"sellingPrice": 0, "basePrice": 10,
+			"height": "5.11",
+			"position": "DEF",
+			"rank": 52
+		},
+		{
+			"id": 18,
+			"name": "David Alaba",
+			"pic": "images/alaba.jpg",
+			"sellingPrice": 0, "basePrice": 45,
+			"height": "5.11",
+			"position": "DEF",
+			"rank": 67
+		},
+		{
+			"id": 19,
+			"name": "Miranda",
+			"pic": "images/miranda.jpg",
+			"sellingPrice": 0, "basePrice": 35,
+			"height": "6.1",
+			"position": "DEF",
+			"rank": 69
+		},
+		{
+			"id": 20,
+			"name": "Pepe",
+			"pic": "images/pepe.jpg",
+			"sellingPrice": 0, "basePrice": 30,
+			"height": "6.2",
+			"position": "DEF",
+			"rank": 68
+		},
+		{
+			"id": 21,
+			"name": "Thomas Muller",
+			"pic": "images/muller.jpg",
+			"sellingPrice": 0, "basePrice": 50,
+			"height": "6.1",
+			"position": "FW",
+			"rank": 11
+		},
+		{
+			"id": 23,
+			"name": "Filipe Luis",
+			"pic": "images/luis.jpg",
+			"sellingPrice": 0, "basePrice": 35,
+			"height": "6.0",
+			"position": "DEF",
+			"rank": 78
+		},
+		{
+			"id": 24,
+			"name": "Lionel Messi",
+			"pic": "images/messi.jpg",
+			"sellingPrice": 0, "basePrice": 120,
+			"height": "5.7",
+			"position": "FW",
+			"rank": 2
+		},
+		{
+			"id": 25,
+			"name": "Gareth Bale",
+			"pic": "images/bale.jpg",
+			"sellingPrice": 0, "basePrice": 80,
+			"height": "6.0",
+			"position": "FW",
+			"rank": 6
+		},
+		{
+			"id": 26,
+			"name": "Robert Lewandowski",
+			"pic": "images/lewa.jpg",
+			"sellingPrice": 0, "basePrice": 90,
+			"height": "6.1",
+			"position": "FW",
+			"rank": 7
+		},
+		{
+			"id": 27,
+			"name": "Neymar Jr",
+			"pic": "images/neymar.jpg",
+			"sellingPrice": 0, "basePrice": 110,
+			"height": "5.9",
+			"position": "FW",
+			"rank": 5
+		},
+		{
+			"id": 28,
+			"name": "Luis Suarez",
+			"pic": "images/suarez.jpg",
+			"sellingPrice": 0, "basePrice": 95,
+			"height": "6.0",
+			"position": "FW",
+			"rank": 3
+		},
+		{
+			"id": 29,
+			"name": "Eden Hazard",
+			"pic": "images/hazard.jpg",
+			"sellingPrice": 0, "basePrice": 90,
+			"height": "5.8",
+			"position": "FW",
+			"rank": 8
+		},
+		{
+			"id": 30,
+			"name": "Sergio Aguero",
+			"pic": "images/aguero.jpg",
+			"sellingPrice": 0, "basePrice": 65,
+			"height": "5.8",
+			"position": "FW",
+			"rank": 9
+		},
+		{
+			"id": 31,
+			"name": "Antoine Griezmann",
+			"pic": "images/griezmann.jpg",
+			"sellingPrice": 0, "basePrice": 80,
+			"height": "5.9",
+			"position": "FW",
+			"rank": 4
+		},
+		{
+			"id": 32,
+			"name": "Gonzalo Higuain",
+			"pic": "images/higuain.jpg",
+			"sellingPrice": 0, "basePrice": 80,
+			"height": "6.0",
+			"position": "FW",
+			"rank": 15
+		},
+		{
+			"id": 33,
+			"name": "Paulo Dybala",
+			"pic": "images/dybala.jpg",
+			"sellingPrice": 0, "basePrice": 65,
+			"height": "5.10",
+			"position": "FW",
+			"rank": 21
+		},
+		{
+			"id": 34,
+			"name": "Alexis Sanchez",
+			"pic": "images/sanchez.jpg",
+			"sellingPrice": 0, "basePrice": 80,
+			"height": "5.7",
+			"position": "FW",
+			"rank": 17
+		},
+		{
+			"id": 35,
+			"name": "Pierre Emerick Aubameyang",
+			"pic": "images/auba.jpg",
+			"sellingPrice": 0, "basePrice": 65,
+			"height": "6.2",
+			"position": "FW",
+			"rank": 13
+		},
+		{
+			"id": 36,
+			"name": "Zlatan Ibrahimovic",
+			"pic": "images/ibra.jpg",
+			"sellingPrice": 0, "basePrice": 25,
+			"height": "6.5",
+			"position": "FW",
+			"rank": 18
+		},
+		{
+			"id": 37,
+			"name": "Edinson Cavani",
+			"pic": "images/cavani.jpg",
+			"sellingPrice": 0, "basePrice": 40,
+			"height": "6.0",
+			"position": "FW",
+			"rank": 31
+		},
+		{
+			"id": 38,
+			"name": "Arjen Robben",
+			"pic": "images/robben.jpg",
+			"sellingPrice": 0, "basePrice": 40,
+			"height": "6",
+			"position": "FW",
+			"rank": 24
+		},
+		{
+			"id": 39,
+			"name": "Thiago Alcantara",
+			"pic": "images/thiago.jpg",
+			"sellingPrice": 0, "basePrice": 45,
+			"height": "5.9",
+			"position": "MF",
+			"rank": 22
+		},
+		{
+			"id": 40,
+			"name": "Kevin De Bruyne",
+			"pic": "images/kdb.jpg",
+			"sellingPrice": 0, "basePrice": 80,
+			"height": "5.11",
+			"position": "MF",
+			"rank": 8
+		},
+		{
+			"id": 41,
+			"name": "Luka Modric",
+			"pic": "images/modric.jpg",
+			"sellingPrice": 0, "basePrice": 80,
+			"height": "5.9",
+			"position": "MF",
+			"rank": 12
+		},
+		{
+			"id": 42,
+			"name": "Toni Kroos",
+			"pic": "images/kroos.jpg",
+			"sellingPrice": 0, "basePrice": 30,
+			"height": "6.0",
+			"position": "MF",
+			"rank": 9
+		},
+		{
+			"id": 43,
+			"name": "Christian Eriksen",
+			"pic": "images/eriksen.jpg",
+			"sellingPrice": 0, "basePrice": 40,
+			"height": "6.0",
+			"position": "MF",
+			"rank": 40
+		},
+		{
+			"id": 44,
+			"name": "Arturo Vidal",
+			"pic": "images/vidal.jpg",
+			"sellingPrice": 0, "basePrice": 45,
+			"height": "5.11",
+			"position": "MF",
+			"rank": 39
+		},
+		{
+			"id": 45,
+			"name": "Paul Pogba",
+			"pic": "images/pogba.jpg",
+			"sellingPrice": 0, "basePrice": 50,
+			"height": "6.3",
+			"position": "MF",
+			"rank": 14
+		},
+		{
+			"id": 46,
+			"name": "Marco Veratti",
+			"pic": "images/veratti.jpg",
+			"sellingPrice": 0, "basePrice": 50,
+			"height": "5.5",
+			"position": "MF",
+			"rank": 35
+		},
+		{
+			"id": 47,
+			"name": "N Golo Kante",
+			"pic": "images/kante.jpg",
+			"sellingPrice": 0, "basePrice": 50,
+			"height": "5.6",
+			"position": "MF",
+			"rank": 34
+		},
+		{
+			"id": 48,
+			"name": "Mesut Ozil",
+			"pic": "images/ozil.jpg",
+			"sellingPrice": 0, "basePrice": 25,
+			"height": "5.11",
+			"position": "MF",
+			"rank": 20
+		},
+		{
+			"id": 49,
+			"name": "Marek Hamsik",
+			"pic": "images/hamsik.jpg",
+			"sellingPrice": 0, "basePrice": 25,
+			"height": "6.0",
+			"position": "MF",
+			"rank": 41
+		},
+		{
+			"id": 50,
+			"name": "Andres Iniesta",
+			"pic": "images/iniesta.jpg",
+			"sellingPrice": 0, "basePrice": 10,
+			"height": "5.7",
+			"position": "MF",
+			"rank": 19
+		},
+		{
+			"id": 51,
+			"name": "Sergio Busquets",
+			"pic": "images/busquests.jpg",
+			"sellingPrice": 0, "basePrice": 60,
+			"height": "6.2",
+			"position": "MF",
+			"rank": 59
+		},
+		{
+			"id": 52,
+			"name": "Isco",
+			"pic": "images/isco.jpg",
+			"sellingPrice": 0, "basePrice": "",
+			"sellingPrice": 35,
+			"height": "5.9",
+			"position": "MF",
+			"rank": 54
+		},
+		{
+			"id": 53,
+			"name": "David Silva",
+			"pic": "images/silva.jpg",
+			"sellingPrice": 0, "basePrice": 50,
+			"height": "5.8",
+			"position": "MF",
+			"rank": 43
+		},
+		{
+			"id": 54,
+			"name": "Rakitic",
+			"pic": "images/rakitic.jpg",
+			"sellingPrice": 0, "basePrice": 20,
+			"height": "6.0",
+			"position": "MF",
+			"rank": 44
+		},
+		{
+			"id": 55,
+			"name": "Coutinho",
+			"pic": "images/coutinho.jpg",
+			"sellingPrice": 0, "basePrice": 70,
+			"height": "5.7",
+			"position": "MF",
+			"rank": 51
+		},
+		{
+			"id": 56,
+			"name": "Cristiano Ronaldo",
+			"pic": "images/ronaldo.jpg",
+			"sellingPrice": 0, "basePrice": 90,
+			"height": "6.1",
+			"position": "MF",
+			"rank": 1
+		}
+	]
+}
