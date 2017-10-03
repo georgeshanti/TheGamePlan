@@ -2,7 +2,7 @@
 	"name": "Cristiano Ronaldo",
 	"pic": "\/image\/Cristiano Ronaldo.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 90,
 	"age": 31,
 	"position": "GK",
 	"rank": 1
@@ -10,7 +10,7 @@
 	"name": "Lionel Messi",
 	"pic": "\/image\/Lionel Messi.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 108,
 	"age": 31,
 	"position": "GK",
 	"rank": 2
@@ -18,7 +18,7 @@
 	"name": "Luis Su\u00e1rez",
 	"pic": "\/image\/Luis Su\u00e1rez.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 81,
 	"age": 31,
 	"position": "GK",
 	"rank": 3
@@ -26,7 +26,7 @@
 	"name": "Antoine Griezmann",
 	"pic": "\/image\/Antoine Griezmann.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 72,
 	"age": 31,
 	"position": "GK",
 	"rank": 4
@@ -34,7 +34,7 @@
 	"name": "Neymar",
 	"pic": "\/image\/Neymar.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 90,
 	"age": 31,
 	"position": "GK",
 	"rank": 5
@@ -42,7 +42,7 @@
 	"name": "Gareth Bale",
 	"pic": "\/image\/Gareth Bale.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 72,
 	"age": 31,
 	"position": "GK",
 	"rank": 6
@@ -50,7 +50,7 @@
 	"name": "Robert Lewandowski",
 	"pic": "\/image\/Robert Lewandowski.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 72,
 	"age": 31,
 	"position": "GK",
 	"rank": 7
@@ -58,7 +58,7 @@
 	"name": "Pierre-Emerick Aubameyang",
 	"pic": "\/image\/Pierre-Emerick Aubameyang.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 58,
 	"age": 31,
 	"position": "GK",
 	"rank": 8
@@ -66,7 +66,7 @@
 	"name": "Alexis S\u00e1nchez",
 	"pic": "\/image\/Alexis S\u00e1nchez.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 58,
 	"age": 31,
 	"position": "GK",
 	"rank": 9
@@ -74,7 +74,7 @@
 	"name": "Riyad Mahrez",
 	"pic": "\/image\/Riyad Mahrez.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 27,
 	"age": 31,
 	"position": "GK",
 	"rank": 10
@@ -82,7 +82,7 @@
 	"name": "Sergio Ag\u00fcero",
 	"pic": "\/image\/Sergio Ag\u00fcero.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 58,
 	"age": 31,
 	"position": "GK",
 	"rank": 11
@@ -90,7 +90,7 @@
 	"name": "Luka Modric",
 	"pic": "\/image\/Luka Modric.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 36,
 	"age": 31,
 	"position": "GK",
 	"rank": 12
@@ -98,7 +98,7 @@
 	"name": "Kevin De Bruyne",
 	"pic": "\/image\/Kevin De Bruyne.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 58,
 	"age": 31,
 	"position": "GK",
 	"rank": 13
@@ -106,7 +106,7 @@
 	"name": "Gonzalo Higua\u00edn",
 	"pic": "\/image\/Gonzalo Higua\u00edn.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": 67,
 	"age": 31,
 	"position": "GK",
 	"rank": 14
@@ -114,7 +114,7 @@
 	"name": "Andr\u00e9s Iniesta",
 	"pic": "\/image\/Andr\u00e9s Iniesta.jpg",
 	"sellingPrice": 0,
-	"basePrice": 35,
+	"basePrice": ,
 	"age": 31,
 	"position": "GK",
 	"rank": 15
