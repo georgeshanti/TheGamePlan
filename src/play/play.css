@@ -155,27 +155,27 @@
     border-style: solid;
     border-radius: 30px;
     border-width: 2px;
-    border-color: #39004c;
+    border-color: #ffffff;
     display: block;
     width: 150px;
     text-align: center;
     margin: auto;
     font-weight: 900;
     background: #d00a2d;
-    color: #39004c;
+    color: #ffffff;
     cursor: pointer;
     transition-duration: 0.5s;
     transition-timing-function: ease-in-out;
 }
 
 .buy-button:hover{
-    background: #39004c;
+    background: #ffffff;
     color: #d00a2d;
 }
 
 .buy-symbol{
     display: inline-block;
-    background: #39004c;
+    background: #ffffff;
     color: #d00a2d;
     border-radius: 50px;
     vertical-align: middle;
@@ -193,7 +193,7 @@
 
 .buy-button:hover > .buy-symbol{
     background: #d00a2d;
-    color: #39004c;
+    color: #ffffff;
 }
 
 .next-button{
@@ -201,27 +201,27 @@
     border-style: solid;
     border-radius: 30px;
     border-width: 2px;
-    border-color: #39004c;
-    display: block;
+    border-color: #ffffff;
+    display: inline-block;
     width: 150px;
     text-align: center;
-    margin: 10px auto;
+    margin: 10px;
     font-weight: 900;
     background: #d00a2d;
-    color: #39004c;
+    color: #ffffff;
     cursor: pointer;
     transition-duration: 0.5s;
     transition-timing-function: ease-in-out;
 }
 
 .next-button:hover{
-    background: #39004c;
+    background: #ffffff;
     color: #d00a2d;
 }
 
 .next-symbol{
     display: inline-block;
-    background: #39004c;
+    background: #ffffff;
     color: #d00a2d;
     border-radius: 50px;
     vertical-align: middle;
@@ -239,7 +239,7 @@
 
 .next-button:hover > .next-symbol{
     background: #d00a2d;
-    color: #39004c;
+    color: #ffffff;
 }
 
 .team-card{

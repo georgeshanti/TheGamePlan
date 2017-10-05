@@ -3,7 +3,7 @@ import React, { Component } from "react";
 import Player from './player';
 import Team from './team';
 import TeamButton from './team-button';
-import { FaArrowRight, FaDollar } from 'react-icons/lib/fa';
+import { FaArrowRight, FaDollar, FaArrowLeft } from 'react-icons/lib/fa';
 
 import './play.css'
 
@@ -56,7 +56,7 @@ export default class Play extends Component {
 		if(length==1){
 			fetch('/players.json').then(response => response.json()).then(data => {
 				let players = data;
-				players.sort(function(a,b){return 0.5 - Math.random()});
+				//players.sort(function(a,b){return 0.5 - Math.random()});
 				console.log(players);
 				this.setState({"players": players});
 			});
@@ -90,13 +90,31 @@ export default class Play extends Component {
 		let players = this.state.players;
 		let playerId = parseInt(this.state.playerId);
 		if(players[playerId].sellingPrice>0){
-			delete players.splice(this.state.playerId, 1);
+			players.splice(this.state.playerId, 1);
 			playerId = (playerId) % (players.length);
-			this.setState({"playerId": playerId});
-			this.setState({"players": players});
+			let currentBid = (players[playerId]).basePrice;
+			this.setState({"playerId": playerId, "players": players, "currentBid": currentBid, biddingTeam: 6});
 		}
 		else{
 			playerId = (playerId + 1)%this.state.players.length;
+			console.log(playerId);
+			let currentBid = (this.state.players[playerId]).basePrice;
+			this.setState({"playerId": playerId, "currentBid": currentBid, "biddingTeam": 6});
+		}
+
+	}
+
+	prevPlayer(){
+		let players = this.state.players;
+		let playerId = parseInt(this.state.playerId);
+		if(players[playerId].sellingPrice>0){
+			players.splice(this.state.playerId, 1);
+			playerId = (players.length + playerId-1) % (players.length);
+			let currentBid = (players[playerId]).basePrice;
+			this.setState({"playerId": playerId, "players": players, "currentBid": currentBid, biddingTeam: 6});
+		}
+		else{
+			playerId = (this.state.players.length + playerId - 1)%this.state.players.length;
 			console.log(playerId);
 			let currentBid = (this.state.players[playerId]).basePrice;
 			this.setState({"playerId": playerId, "currentBid": currentBid, "biddingTeam": 6});
@@ -134,6 +152,10 @@ export default class Play extends Component {
 						<span className="buy-button" onClick={buyFunction}>
 							<span className="buy-symbol"><FaDollar /></span>
 							<span className="buy-text">{bought}</span>
+						</span>
+						<span className="next-button" onClick={this.prevPlayer.bind(this)}>
+							<span className="next-symbol"><FaArrowLeft /></span>
+							<span className="next-text">PREV</span>
 						</span>
 						<span className="next-button" onClick={this.nextPlayer.bind(this)}>
 							<span className="next-text">NEXT</span>
