@@ -54,7 +54,7 @@ export default class Play extends Component {
 		let players = JSON.parse(localStorage.getItem('players'));
 		let length = players.length;
 		if(length==1){
-			fetch('/players.json').then(response => response.json()).then(data => {
+			fetch('/list.json').then(response => response.json()).then(data => {
 				let players = data;
 				//players.sort(function(a,b){return 0.5 - Math.random()});
 				console.log(players);
@@ -83,7 +83,7 @@ export default class Play extends Component {
 
 	changeBid(event){
 		console.log(event.target.value);
-		this.setState({"currentBid": event.target.value});
+		this.setState({"currentBid": event.target.value, "biddingTeam": 6});
 	}
 
 	nextPlayer(){
