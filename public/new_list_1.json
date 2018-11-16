@@ -1,0 +1,802 @@
+[
+    {
+       "rank":15,
+       "name":"Paul Pogba",
+       "position":"CM",
+       "basePrice":55,
+       "sellingPrice":0,
+       "pic":"/img/pogba.jpg"
+    },
+    {
+       "rank":61,
+       "name":"Allison",
+       "position":"GK",
+       "basePrice":27,
+       "sellingPrice":0,
+       "pic":"/img/allison.jpg"
+    },
+    {
+       "rank":64,
+       "name":"Leonardo Bonucci",
+       "position":"CB",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/bonucci.jpg"
+    },
+    {
+       "rank":21,
+       "name":"Philipe Coutinho",
+       "position":"CAM/LW",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/coutinho.jpg"
+    },
+    {
+       "rank":13,
+       "name":"Gareth Bale",
+       "position":"RW",
+       "basePrice":60,
+       "sellingPrice":0,
+       "pic":"/img/bale.jpg"
+    },
+    {
+       "rank":45,
+       "name":"Angel Di Maria",
+       "position":"LW/RW",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/dimaria.jpg"
+    },
+    {
+       "rank":74,
+       "name":"Saul Niguez",
+       "position":"RM/CM",
+       "basePrice":28,
+       "sellingPrice":0,
+       "pic":"/img/niguez.jpg"
+    },
+    {
+       "rank":62,
+       "name":"Thiago Alcantra",
+       "position":"CM",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/alcantra.jpg"
+    },
+    {
+       "rank":73,
+       "name":"Radja Nainngolan",
+       "position":"CM",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/radja.jpg"
+    },
+    {
+       "rank":69,
+       "name":"Manuel Neuer",
+       "position":"GK",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/manuel.jpg"
+    },
+    {
+       "rank":58,
+       "name":"Virgil Van Djik",
+       "position":"CB",
+       "basePrice":27,
+       "sellingPrice":0,
+       "pic":"/img/djik.jpeg"
+    },
+    {
+       "rank":81,
+       "name":"Christian Pulisic",
+       "position":"RW/CAM",
+       "basePrice":20,
+       "sellingPrice":0,
+       "pic":"/img/pulisic.jpg"
+    },
+    {
+       "rank":56,
+       "name":"Marco Asensio",
+       "position":"CAM/LW",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/marco.jpg"
+    },
+    {
+       "rank":85,
+       "name":"Marcus Rashford",
+       "position":"RW/CF",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/marcus.jpg"
+    },
+    {
+       "rank":88,
+       "name":"Diego Costa",
+       "position":"CF",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/costa.jpg"
+    },
+    {
+       "rank":25,
+       "name":"Sergio Busquets",
+       "position":"CDM",
+       "basePrice":23,
+       "sellingPrice":0,
+       "pic":"/img/busquets.jpg"
+    },
+    {
+       "rank":4,
+       "name":"Antoine Griezmann",
+       "position":"ST",
+       "basePrice":55,
+       "sellingPrice":0,
+       "pic":"/img/antoine.jpg"
+    },
+    {
+       "rank":67,
+       "name":"Karim Benzema",
+       "position":"CF",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/benzema.jpeg"
+    },
+    {
+       "rank":7,
+       "name":"Kylian Mbappe",
+       "position":"CF/LW",
+       "basePrice":55,
+       "sellingPrice":0,
+       "pic":"/img/mbappe.jpg"
+    },
+    {
+       "rank":12,
+       "name":"Eden Hazard",
+       "position":"LW",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/hazard.jpg"
+    },
+    {
+       "rank":79,
+       "name":"Marco Reus",
+       "position":"LM/CF",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/reus.jpg"
+    },
+    {
+       "rank":68,
+       "name":"Raheem Sterling",
+       "position":"RW",
+       "basePrice":36,
+       "sellingPrice":0,
+       "pic":"/img/sterling.jpg"
+    },
+    {
+       "rank":49,
+       "name":"Sadio Mane",
+       "position":"LW",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/mane.jpg"
+    },
+    {
+       "rank":30,
+       "name":"Dani Carvajal",
+       "position":"RB",
+       "basePrice":25,
+       "sellingPrice":0,
+       "pic":"/img/carvajal.jpg"
+    },
+    {
+       "rank":37,
+       "name":"Pierre Aubameyang",
+       "position":"CF/ST",
+       "basePrice":55,
+       "sellingPrice":0,
+       "pic":"/img/pierre.jpg"
+    },
+    {
+       "rank":89,
+       "name":"Harry Maguire",
+       "position":"CB",
+       "basePrice":25,
+       "sellingPrice":0,
+       "pic":"/img/maguire.jpg"
+    },
+    {
+       "rank":86,
+       "name":"Kyle Walker",
+       "position":"RB",
+       "basePrice":25,
+       "sellingPrice":0,
+       "pic":"/img/walker.jpg"
+    },
+    {
+       "rank":66,
+       "name":"Alex Sandro",
+       "position":"LB",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/sandro.jpg"
+    },
+    {
+       "rank":26,
+       "name":"Diego Godin",
+       "position":"CB",
+       "basePrice":28,
+       "sellingPrice":0,
+       "pic":"/img/godin.jpg"
+    },
+    {
+       "rank":28,
+       "name":"Casemiro",
+       "position":"CDM",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/casemiro.jpg"
+    },
+    {
+       "rank":22,
+       "name":"Paulo Dybala",
+       "position":"CAM",
+       "basePrice":50,
+       "sellingPrice":0,
+       "pic":"/img/dybala.jpg"
+    },
+    {
+       "rank":29,
+       "name":"Edison Cavani",
+       "position":"CF",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/cavani.jpg"
+    },
+    {
+       "rank":75,
+       "name":"David Alaba",
+       "position":"LB",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/alaba.jpg"
+    },
+    {
+       "rank":42,
+       "name":"Gerard Pique",
+       "position":"CB",
+       "basePrice":25,
+       "sellingPrice":0,
+       "pic":"/img/pique.jpg"
+    },
+    {
+       "rank":57,
+       "name":"Dani Alves",
+       "position":"RB",
+       "basePrice":15,
+       "sellingPrice":0,
+       "pic":"/img/alves.jpg"
+    },
+    {
+       "rank":92,
+       "name":"Sergej Milinkovic Savic",
+       "position":"CDM/CM",
+       "basePrice":28,
+       "sellingPrice":0,
+       "pic":"/img/savic.jpeg"
+    },
+    {
+       "rank":77,
+       "name":"Giorgio Chiellini",
+       "position":"CB",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/chiellini.jpg"
+    },
+    {
+       "rank":80,
+       "name":"Jerome Boateng",
+       "position":"CB",
+       "basePrice":20,
+       "sellingPrice":0,
+       "pic":"/img/boateng.jpg"
+    },
+    {
+       "rank":3,
+       "name":"Cristiano Ronaldo",
+       "position":"ST",
+       "basePrice":95,
+       "sellingPrice":0,
+       "pic":"/img/ronaldo.jpeg"
+    },
+    {
+       "rank":9,
+       "name":"Mohammed Salah",
+       "position":"RW",
+       "basePrice":38,
+       "sellingPrice":0,
+       "pic":"/img/salah.jpg"
+    },
+    {
+       "rank":48,
+       "name":"Mats Hummels",
+       "position":"CB",
+       "basePrice":28,
+       "sellingPrice":0,
+       "pic":"/img/hummels.jpeg"
+    },
+    {
+       "rank":54,
+       "name":"Joshua Kimmich",
+       "position":"RB",
+       "basePrice":24,
+       "sellingPrice":0,
+       "pic":"/img/kimmich.jpg"
+    },
+    {
+       "rank":47,
+       "name":"Keylor Navas",
+       "position":"GK",
+       "basePrice":27,
+       "sellingPrice":0,
+       "pic":"/img/navas.jpg"
+    },
+    {
+       "rank":51,
+       "name":"Gianluigi Buffon",
+       "position":"GK",
+       "basePrice":11,
+       "sellingPrice":0,
+       "pic":"/img/buffon.jpg"
+    },
+    {
+       "rank":53,
+       "name":"Mario Mandzukic",
+       "position":"CF",
+       "basePrice":20,
+       "sellingPrice":0,
+       "pic":"/img/mario.jpg"
+    },
+    {
+       "rank":39,
+       "name":"Jordi Alba",
+       "position":"LB",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/alba.jpg"
+    },
+    {
+       "rank":63,
+       "name":"Arturo Vidal",
+       "position":"CDM",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/vidal.jpg"
+    },
+    {
+       "rank":11,
+       "name":"Toni Kroos",
+       "position":"CM",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/kroos.jpg"
+    },
+    {
+       "rank":1,
+       "name":"Luka Modric",
+       "position":"CM",
+       "basePrice":60,
+       "sellingPrice":0,
+       "pic":"/img/luka.jpg"
+    },
+    {
+       "rank":90,
+       "name":"Blaise Matuidi",
+       "position":"CDM",
+       "basePrice":23,
+       "sellingPrice":0,
+       "pic":"/img/matuidi.jpg"
+    },
+    {
+       "rank":96,
+       "name":"Arjen Robben",
+       "position":"RW",
+       "basePrice":18,
+       "sellingPrice":0,
+       "pic":"/img/robben.jpg"
+    },
+    {
+       "rank":60,
+       "name":"Hamsik",
+       "position":"CM",
+       "basePrice":28,
+       "sellingPrice":0,
+       "pic":"/img/hamsik.jpg"
+    },
+    {
+       "rank":78,
+       "name":"Alexis Sanchez",
+       "position":"RW/CF",
+       "basePrice":50,
+       "sellingPrice":0,
+       "pic":"/img/sanchez.jpg"
+    },
+    {
+       "rank":43,
+       "name":"Toby Alderweild",
+       "position":"CB",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/toby.jpg"
+    },
+    {
+       "rank":16,
+       "name":"Sergio Ramos",
+       "position":"CB",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/ramos.jpg"
+    },
+    {
+       "rank":70,
+       "name":"Dele Alli",
+       "position":"CAM",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/alli.jpg"
+    },
+    {
+       "rank":97,
+       "name":"Kostas Manolas",
+       "position":"CB",
+       "basePrice":28,
+       "sellingPrice":0,
+       "pic":"/img/manolas.jpg"
+    },
+    {
+       "rank":99,
+       "name":"Alvaro Morata",
+       "position":"CF",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/morato.jpg"
+    },
+    {
+       "rank":94,
+       "name":"Jamie Vardy",
+       "position":"CF",
+       "basePrice":20,
+       "sellingPrice":0,
+       "pic":"/img/vardy.jpg"
+    },
+    {
+       "rank":38,
+       "name":"Romelu Lukaku",
+       "position":"CF ",
+       "basePrice":45,
+       "sellingPrice":0,
+       "pic":"/img/lukaku.jpg"
+    },
+    {
+       "rank":93,
+       "name":"Koke",
+       "position":"CM",
+       "basePrice":25,
+       "sellingPrice":0,
+       "pic":"/img/koke.jpg"
+    },
+    {
+       "rank":27,
+       "name":"David Silva",
+       "position":"CM/CAM",
+       "basePrice":28,
+       "sellingPrice":0,
+       "pic":"/img/silva.jpg"
+    },
+    {
+       "rank":2,
+       "name":"Lionel Messi",
+       "position":"CF",
+       "basePrice":90,
+       "sellingPrice":0,
+       "pic":"/img/messi.jpg"
+    },
+    {
+       "rank":59,
+       "name":"Douglas Costa",
+       "position":"LM",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/douglas.jpg"
+    },
+    {
+       "rank":20,
+       "name":"Ngolo Kante",
+       "position":"CDM",
+       "basePrice":37,
+       "sellingPrice":0,
+       "pic":"/img/kante.jpg"
+    },
+    {
+       "rank":24,
+       "name":"Thibaut Courtois",
+       "position":"GK",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/courtois.jpg"
+    },
+    {
+       "rank":35,
+       "name":"Marc Andre Ter Stegen",
+       "position":"GK",
+       "basePrice":33,
+       "sellingPrice":0,
+       "pic":"/img/stegen.jpg"
+    },
+    {
+       "rank":71,
+       "name":"Thomas Muller",
+       "position":"CF",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/muller.jpg"
+    },
+    {
+       "rank":55,
+       "name":"Miralem Pjanic",
+       "position":"CM",
+       "basePrice":27,
+       "sellingPrice":0,
+       "pic":"/img/pjanic.jpg"
+    },
+    {
+       "rank":19,
+       "name":"Isco",
+       "position":"CAM/CM",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/isco.jpg"
+    },
+    {
+       "rank":100,
+       "name":"Zlatan Ibrahimovic",
+       "position":"CF",
+       "basePrice":18,
+       "sellingPrice":0,
+       "pic":"/img/zlatan.jpg"
+    },
+    {
+       "rank":34,
+       "name":"Sergio Aguero",
+       "position":"CF",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/aguero.jpg"
+    },
+    {
+       "rank":6,
+       "name":"De Bruyne",
+       "position":"CAM/CM",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/bruyne.jpg"
+    },
+    {
+       "rank":65,
+       "name":"Anthony Martial",
+       "position":"LM/CF",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/martial.jpg"
+    },
+    {
+       "rank":95,
+       "name":"Leroy Sane",
+       "position":"LW/RW",
+       "basePrice":27,
+       "sellingPrice":0,
+       "pic":"/img/sane.jpg"
+    },
+    {
+       "rank":36,
+       "name":"Thiago Silva",
+       "position":"CB",
+       "basePrice":25,
+       "sellingPrice":0,
+       "pic":"/img/tsilva.jpg"
+    },
+    {
+       "rank":32,
+       "name":"Ousmane Dembele",
+       "position":"RW",
+       "basePrice":32,
+       "sellingPrice":0,
+       "pic":"/img/dembele.jpg"
+    },
+    {
+       "rank":14,
+       "name":"Luis Suarez",
+       "position":"CF",
+       "basePrice":45,
+       "sellingPrice":0,
+       "pic":"/img/suarez.jpg"
+    },
+    {
+       "rank":41,
+       "name":"Ivan Rakitic",
+       "position":"CM/CAM",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/rakitic.jpg"
+    },
+    {
+       "rank":82,
+       "name":"Bernardo Silva",
+       "position":"RM ",
+       "basePrice":28,
+       "sellingPrice":0,
+       "pic":"/img/bernardo.jpg"
+    },
+    {
+       "rank":50,
+       "name":"Thomas Muenier",
+       "position":"LB",
+       "basePrice":20,
+       "sellingPrice":0,
+       "pic":"/img/muniuer.jpeg"
+    },
+    {
+       "rank":98,
+       "name":"Nemanja Matic",
+       "position":"CDM",
+       "basePrice":23,
+       "sellingPrice":0,
+       "pic":"/img/matic.jpg"
+    },
+    {
+       "rank":5,
+       "name":"Neymar",
+       "position":"LW",
+       "basePrice":95,
+       "sellingPrice":0,
+       "pic":"/img/neymar.jpg"
+    },
+    {
+       "rank":23,
+       "name":"Raphael Varane",
+       "position":"CB",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/varane.jpg"
+    },
+    {
+       "rank":76,
+       "name":"Roberto Firmino",
+       "position":"CF",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/firmino.jpeg"
+    },
+    {
+       "rank":40,
+       "name":"James Rodriguez",
+       "position":"CAM",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/james.jpg"
+    },
+    {
+       "rank":18,
+       "name":"David De Gea",
+       "position":"GK",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/degea.jpg"
+    },
+    {
+       "rank":83,
+       "name":"Marcos Alonso",
+       "position":"LWB",
+       "basePrice":20,
+       "sellingPrice":0,
+       "pic":"/img/alonso.jpg"
+    },
+    {
+       "rank":44,
+       "name":"Lorenzo Insinge",
+       "position":"CF",
+       "basePrice":28,
+       "sellingPrice":0,
+       "pic":"/img/insgine.jpg"
+    },
+    {
+       "rank":52,
+       "name":"Mesut Ozil",
+       "position":"CAM",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/ozil.jpg"
+    },
+    {
+       "rank":46,
+       "name":"Memphis Depay",
+       "position":"LW/CF",
+       "basePrice":23,
+       "sellingPrice":0,
+       "pic":"/img/depay.jpg"
+    },
+    {
+       "rank":72,
+       "name":"Vincent Kompany",
+       "position":"CB",
+       "basePrice":32,
+       "sellingPrice":0,
+       "pic":"/img/kompany.jpg"
+    },
+    {
+       "rank":8,
+       "name":"Harry Kane",
+       "position":"CF",
+       "basePrice":40,
+       "sellingPrice":0,
+       "pic":"/img/kane.jpg"
+    },
+    {
+       "rank":17,
+       "name":"Marcelo",
+       "position":"LB",
+       "basePrice":37,
+       "sellingPrice":0,
+       "pic":"/img/marcelo.jpg"
+    },
+    {
+       "rank":91,
+       "name":"Antonio Rudiger",
+       "position":"CB",
+       "basePrice":25,
+       "sellingPrice":0,
+       "pic":"/img/rudiger.jpg"
+    },
+    {
+       "rank":31,
+       "name":"Jan Oblak",
+       "position":"GK",
+       "basePrice":35,
+       "sellingPrice":0,
+       "pic":"/img/oblak.jpg"
+    },
+    {
+       "rank":87,
+       "name":"Cesc Fabregas",
+       "position":"CM",
+       "basePrice":28,
+       "sellingPrice":0,
+       "pic":"/img/fabregas.jpg"
+    },
+    {
+       "rank":10,
+       "name":"Robert Lewandowski",
+       "position":"CF",
+       "basePrice":50,
+       "sellingPrice":0,
+       "pic":"/img/lewandowski.jpg"
+    },
+    {
+       "rank":33,
+       "name":"Samuel Umtiti",
+       "position":"CB",
+       "basePrice":30,
+       "sellingPrice":0,
+       "pic":"/img/umtiti.jpg"
+    },
+    {
+       "rank":84,
+       "name":"Marquinhos",
+       "position":"CB",
+       "basePrice":22,
+       "sellingPrice":0,
+       "pic":"/img/marquinhos.jpg"
+    }
+ ]
